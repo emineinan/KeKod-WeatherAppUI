@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include
+        android:id="@+id/layoutInfo"
+        layout="@layout/layout_info" />
+
+    <include
+        android:id="@+id/layoutAdditional"
+        layout="@layout/layout_additional_info" />
+
+    <include
+        android:id="@+id/layoutSunsetSunrise"
+        layout="@layout/layout_sunrise_sunset" />
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_value">60%</string>
+    <string name="wind">Wind</string>
+    <string name="nw_6_mph">NW 6 mph</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="precipitation_value">2%</string>
+    <string name="date">26 August, 2021</string>
+    <string name="temperature">21</string>
+    <string name="degree">°C</string>
+    <string name="city">Ankara</string>
+    <string name="sunny">Sunny</string>
+    <string name="condition_image">Condition Image</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_time">6:26 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunset_image">Sunset Image</string>
+    <string name="sunrise_image">Sunrise Image</string>
+    <string name="sunset_time">7:46 PM</string>
+</resources>
